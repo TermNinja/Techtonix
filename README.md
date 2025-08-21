@@ -13,8 +13,9 @@ Logic has the power to shake foundations, to transform technology, and ultimatel
 
 **Tech|tonix is just the beginning.**  
 Step by step, we are building an independent ecosystem, a creative alternative to big tech platforms —  
-with apps, utilities, and projects designed for everyone.  
+with apps, utilities, and projects designed for everyone.
 
+You can visit our site at https://www.techtonix.netlify.app
 ---
 
 ## 📜 License & Naming Rules  
