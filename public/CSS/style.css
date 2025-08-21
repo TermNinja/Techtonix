@@ -57,3 +57,30 @@ a:active {
 .return-back a {
     text-align: left;
 }
+
+.btn {
+    display: inline-block;
+    padding: 15px 20px;
+    background-color: midnightblue;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    margin: auto;
+}
+
+.btn:hover {
+    background-color: darkblue;
+}
+
+.btn #en {
+    background-image: url("../images/flag-uk.jpg");
+    border-image-repeat: no-repeat;
+}
+.btn #fr {
+    background-image: url("../images/flag-france.webp");
+    border-image-repeat: no-repeat;
+}
+.btn #tr {
+    background-image: url("../images/flag-turkey.webp");
+    border-image-repeat: no-repeat;
+}
