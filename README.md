@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3598761d-0eed-49cd-92d7-2eead662ae95/deploy-status)](https://app.netlify.com/projects/techtonix-test/deploys?branch=test)
 # Welcome to Tech|tonix!  
 ## Seismic Logic: Tech|tonix...
 
