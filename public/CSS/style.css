@@ -1,5 +1,4 @@
 body {
-    background-image: url("/public/images/circuit.png");
     background-image: url("../images/circuit.png");
     background-size: auto;
     background-repeat: repeat;
@@ -7,7 +6,6 @@ body {
     font-family: Arial, sans-serif;
 }
 
-.welcome, .products, .developer{
 .welcome, .products, .developer, .about, .roadmap, .build-apps, .build-blog, .build-markup, .build-office, .build-open-source, .build-website{
     width: auto;
     background-color: rgba(0,0,0,0.7);
