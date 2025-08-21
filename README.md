@@ -1,7 +1,7 @@
 # Welcome to Tech|tonix!  
 ## Seismic Logic: Tech|tonix...
 
-**Tech|tonix** is more than just a website — it’s an **Open Source** hub where ideas become reality.  
+**Tech|tonix** is more than just a website — it’s an **Open Source** hub where scripts become reality.  
 Our goal is to design and share tools, apps, and experiments that empower people while respecting their freedom.  
 
 In a world where privacy is often overlooked, we want to build a better future.  
