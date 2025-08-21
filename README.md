@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a5be8a3d-8ea4-48aa-8759-0c493e72d294/deploy-status)](https://app.netlify.com/projects/tech-tonix/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a5be8a3d-8ea4-48aa-8759-0c493e72d294/deploy-status)](https://app.netlify.com/projects/tech-tonix/deploys?branch=main)
 # Welcome to Tech|tonix!  
 ## Seismic Logic: Tech|tonix...
 
